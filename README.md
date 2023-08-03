@@ -1,10 +1,10 @@
 # Emma Strand
 
-I'm a fifth year Ph.D. candidate working with Dr. Hollie Putnam at the University of Rhode Island. My dissertation research investigates the effects of environmental stimuli (e.g., elevated temperature and pCO2) on organismal multivariate physiological and genomic state. 
+I'm a Postdoctoral Scientist at the Gloucester Marine Genomics Institute. I completed my Ph.D. in Biological and Environmental Sciences with Dr. Hollie Putnam at the University of Rhode Island. My dissertation research investigated the effects of environmental stimuli (e.g., elevated temperature and pCO2) on organismal multivariate physiological and genomic state. 
 
-View my CV, Google Scholar page, and other links on my [LinkTree here](https://linktr.ee/emmastrand). I use [open lab notebooks](https://emmastrand.github.io/EmmaStrand_Notebook) and GitHub to make data and code openly accessible. 
+View my CV, Google Scholar page, and other links on my [LinkTree here](https://linktr.ee/emmastrand). My open source laboratory notebook from my time at the Putnam Lab can be found here: [open lab notebook](https://emmastrand.github.io/EmmaStrand_Notebook) and my current laboratory notebook from GMGI can be found here: 
 
-### Dissertation Chapters 
+### Ph.D. Dissertation Chapters 
 
 Chapter 1: Coral species loss and physiological legacy effects are elicited by extended marine heatwave and projected ocean acidification conditions. [Github repository](https://github.com/hputnam/Acclim_Dynamics)
 
