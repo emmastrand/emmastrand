@@ -25,9 +25,6 @@ Gene Expression RNASeq workflow: [link](https://github.com/emmastrand/EmmaStrand
 ITS2 Symbiont community analysis workflow: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-07-05-Holobiont-Integration-ITS2-Pipeline-2022.md)
 
 
-### Business Card
-
-![card](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/strand-card.PNG?raw=true)
 
 
 
