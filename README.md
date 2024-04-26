@@ -1,4 +1,4 @@
-# Emma Strand
+# Dr. Emma Strand
 
 I'm a Postdoctoral Scientist at the [Gloucester Marine Genomics Institute](https://gmgi.org/). I completed my Ph.D. in Biological and Environmental Sciences with [Dr. Hollie Putnam](http://putnamlab.com/) at the University of Rhode Island. My dissertation research investigated the effects of environmental stimuli (e.g., elevated temperature and pCO2) on organismal multivariate physiological and genomic state. 
 
