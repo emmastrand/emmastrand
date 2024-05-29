@@ -1,5 +1,7 @@
 # Dr. Emma Strand
 
+*Page in progress.*
+
 I'm a Postdoctoral Scientist at the [Gloucester Marine Genomics Institute](https://gmgi.org/). I completed my Ph.D. in Biological and Environmental Sciences with [Dr. Hollie Putnam](http://putnamlab.com/) at the University of Rhode Island. My dissertation research investigated the effects of environmental stimuli (e.g., elevated temperature and pCO2) on organismal multivariate physiological and genomic state. 
 
 View my CV, Google Scholar page, and other links on my [LinkTree here](https://linktr.ee/emmastrand). My open source laboratory notebook from my time at the Putnam Lab can be found here: [PhD open lab notebook](https://emmastrand.github.io/EmmaStrand_Notebook) and my current laboratory notebook from GMGI can be found here: [GMGI open lab notebook](https://github.com/emmastrand/GMGI_Notebook). 
