@@ -31,8 +31,9 @@ Gene Expression RNASeq workflow: [link](https://github.com/emmastrand/EmmaStrand
 
 ITS2 Symbiont community analysis workflow: [link](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-07-05-Holobiont-Integration-ITS2-Pipeline-2022.md)
 
+Environmental DNA (eDNA) metabarcoding workflows: [link](https://gmgi-fisheries.github.io/resources/)
 
-
+Population Genomics workflows: [link](https://gmgi-fisheries.github.io/resources/)
 
 
 
