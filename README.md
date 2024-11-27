@@ -15,7 +15,7 @@ Epigenetic aging
 
 Coral species loss and physiological legacy effects are elicited by extended marine heatwave and projected ocean acidification conditions. [Github repository](https://github.com/hputnam/Acclim_Dynamics)
 
-Coral host and Symbiodiniaceae epigenetic and gene expression patterns under thermal and ocean acidification stress. [Github repository](https://github.com/emmastrand/Acclim_Dynamics_molecular)
+Polyploidy drives DNA methylation patterns and gene expression variability differences in Pocillopora acuta. [Github repository](https://github.com/emmastrand/Ploidy_methylation/tree/main)
 
 Epigenetic mechanisms and symbiont communities underlying tolerant and non-tolerant phenotypes in coral. [Github repository](https://github.com/hputnam/HI_Bleaching_Timeseries/tree/main/Dec-July-2019-analysis)
 
