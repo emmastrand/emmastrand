@@ -4,19 +4,20 @@ I'm a Staff Scientist at the [Gloucester Marine Genomics Institute](https://gmgi
 
 View my CV, Google Scholar page, and other links on my [LinkTree here](https://linktr.ee/emmastrand). My open source laboratory notebook from my time at the Putnam Lab can be found here: [PhD open lab notebook](https://emmastrand.github.io/EmmaStrand_Notebook) and my current laboratory notebook from GMGI can be found here: [GMGI open lab notebook](https://github.com/emmastrand/GMGI_Notebook). 
 
-## Sustainable Fisheries and Aquaculture
+## Research theme: Environmental Epigenetics
+
+*Page in progress.*
+Epigenetic aging
+
+Featured projects:
+- Coral species loss and physiological legacy effects are elicited by extended marine heatwave and projected ocean acidification conditions. [Github repository](https://github.com/hputnam/Acclim_Dynamics)  
+- Polyploidy drives DNA methylation patterns and gene expression variability differences in Pocillopora acuta. [Github repository](https://github.com/emmastrand/Ploidy_methylation/tree/main)  
+- Epigenetic mechanisms and symbiont communities underlying tolerant and non-tolerant phenotypes in coral. [Github repository](https://github.com/hputnam/HI_Bleaching_Timeseries/tree/main/Dec-July-2019-analysis)  
+
+## Computational Support for Sustaintable Fisheries
 
 *Page in progress.*
 Offshore wind eDNA  
-Epigenetic aging
-
-## Climate Change Resilience
-
-Coral species loss and physiological legacy effects are elicited by extended marine heatwave and projected ocean acidification conditions. [Github repository](https://github.com/hputnam/Acclim_Dynamics)
-
-Polyploidy drives DNA methylation patterns and gene expression variability differences in Pocillopora acuta. [Github repository](https://github.com/emmastrand/Ploidy_methylation/tree/main)
-
-Epigenetic mechanisms and symbiont communities underlying tolerant and non-tolerant phenotypes in coral. [Github repository](https://github.com/hputnam/HI_Bleaching_Timeseries/tree/main/Dec-July-2019-analysis)
 
 ### Bioinformatic Resources
 
